@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## To create interest web page
+visit [material UI](material-ui.com)
+
+    # Installation with react
+    npm install @material-ui/core
+    
+# Extension VS Code to shortcut for React script
+Go to extension VS Code => Search ES7 React
+    
 ## Available Scripts
 
 In the project directory, you can run:
@@ -10,6 +20,8 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+<img width="299" alt="Annotation 2022-11-13 142310" src="https://user-images.githubusercontent.com/110078690/201557392-9fdebbcd-5ed4-44d3-9898-5311a894ef00.png">
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
